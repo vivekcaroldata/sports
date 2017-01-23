@@ -22,7 +22,7 @@ class Sports {
 	public function get_options_details($id)
 	{
 		$result = array();
-		$opkey = "";
+		$opkey = ""; 
 		$select = "";
 		$featured_op = $this->CI->Share_Model->get_join('ai_options','ai_option_type','option_type_id','ai_option_type.id',array('question_id'=>$id,'ai_options.status'=>1),'ai_options.id as optionId,ai_options.option_id as optionTypeId ,ai_options.image as optionImage,ai_option_type.option_type as optionTypeName,ai_option_type.table_name as optionTypeTable');
 		$i=0; 
