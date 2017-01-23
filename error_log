@@ -1,0 +1,2 @@
+[23-Dec-2016 07:27:14 America/Chicago] PHP Fatal error:  Call to a member function segment() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/controllers/User.php on line 198
+[23-Dec-2016 07:27:15 America/Chicago] PHP Fatal error:  Call to a member function segment() on null in /home2/carolhhp/public_html/democarol.com/sportsswaps/application/controllers/User.php on line 198
