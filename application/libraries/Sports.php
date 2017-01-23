@@ -161,8 +161,6 @@ class Sports {
 			}
 			else
 			{
-				
-				
 				$primaryArr['offered_by']   =  $user_id;             
 				$primaryArr['option_id']	=  $option_id;
 				$primaryArr['rate']			=  $rate;	
